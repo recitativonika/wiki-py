@@ -1,6 +1,6 @@
 # Simple wikipedia search with python
 
-## • Installation & how to run?
+## Installation & how to run?
 
 ```bash
 git clone https://github.com/recitativonika/wiki-py.git
@@ -9,7 +9,7 @@ pip install -r requirements.txt
 python wiki.py
 ```
 
-# Example Usage
+## Example Usage
 
 When you run the script, it will prompt you to enter the title of a Wikipedia page. For example:
 
