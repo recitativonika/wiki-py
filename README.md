@@ -1,7 +1,5 @@
 # Simple wikipedia search with python
 
-Simple wikipedia search with python script
-
 ## • Installation & how to run?
 
 ```bash
@@ -23,6 +21,6 @@ Title: Python (programming language)
 Summary:
 ```bash
 Python is a high-level, interpreted, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with the use of significant indentation. Its syntax allows programmers to express concepts in fewer lines of code than possible in languages such as C++ or Java.
-Important Notes
-The script retrieves the summary of the specified Wikipedia page. You can modify it to retrieve full content if needed.
 ```
+Important Note, the script retrieves the summary of the specified Wikipedia page. You can modify it to retrieve full content if needed.
+
