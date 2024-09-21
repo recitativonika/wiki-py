@@ -1,13 +1,12 @@
-# Simple HW Check
+# Simple wikipedia search with python
 
-Simple systeminfo Check with python
-
+Simple wikipedia search with python script
 
 ## • Installation & how to run?
 
 ```bash
-git clone https://github.com/recitativonika/simple-hwcheck.git
-cd simple-hwcheck
+git clone https://github.com/recitativonika/wiki-py.git
+cd swiki-py
 pip install -r requirements.txt
-python hw.py
+python wiki.py
 ```
