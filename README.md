@@ -6,7 +6,7 @@ Simple wikipedia search with python script
 
 ```bash
 git clone https://github.com/recitativonika/wiki-py.git
-cd swiki-py
+cd wiki-py
 pip install -r requirements.txt
 python wiki.py
 ```
